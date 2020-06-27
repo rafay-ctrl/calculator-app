@@ -1,0 +1,36 @@
+.main{
+    border: 2px solid white;
+    width: 300px;
+    margin: 0 auto ;
+    background: black;
+    cursor: pointer;
+    
+}
+body{
+    background-image: url("howtoovercom.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.result{
+    width: 97%;
+    background-color: wheat;
+    color: tomato;
+    height: 45px;
+}
+.clearBtn{
+background-color: thistle;
+width: 100%;
+margin-top: 5px;
+}
+.Btn{
+    width: 70px;
+    background-color: lavender;
+    margin: 1px;
+    margin-top: 5px;
+}
+.hBtn{
+    width: 146px;
+    margin-top: 5px;
+    background-color: gainsboro;
+    
+}
